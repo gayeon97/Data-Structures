@@ -1,5 +1,5 @@
 # Data-Structures
-1st Project 
+1st Project Description
 
 This project works with an input file containing the listing of named CSS colors and their hexadecimal values. Each line in the input file will contain the name of the color, followed by a comma, followed by one or more spaces, followed by a hexadecimal color value.
 
